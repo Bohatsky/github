@@ -5,6 +5,9 @@ public class Counter {
         int res = n+m;
         int sum = n*m;
         double g =2;
+    }
 
+    public  int  diff(int dif, int res){
+      return dif-res;
     }
 }
