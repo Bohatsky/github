@@ -11,6 +11,6 @@ public class Counter {
       return dif-res;
     }
     public void sum(){
-        int n = int d + int y;
+        int n = int p + int y;
     }
 }
