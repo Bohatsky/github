@@ -7,6 +7,6 @@ public class Counter {
         double g =2;
     }
     public void sum(){
-        int n = int p + int y;
+        int n = int d + int y;
     }
 }
