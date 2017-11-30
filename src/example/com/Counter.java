@@ -4,7 +4,7 @@ public class Counter {
     public void count(int n,int m){
         int res = n+m;
         int sum = n*m;
-        double g =1;
+        double g =2;
 
     }
 }
